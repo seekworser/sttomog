@@ -10,3 +10,4 @@ setup(
     description="Manage quantum state tomography",
     packages=find_packages()
 )
+print(find_packages())

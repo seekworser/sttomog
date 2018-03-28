@@ -1,5 +1,7 @@
+.DS_Store
 README.md
 setup.py
+dist/sttomog-0.1-py3.5.egg
 sttomog/__init__.py
 sttomog/evaluate.py
 sttomog.egg-info/PKG-INFO
@@ -7,3 +9,4 @@ sttomog.egg-info/SOURCES.txt
 sttomog.egg-info/dependency_links.txt
 sttomog.egg-info/top_level.txt
 sttomog/__pycache__/__init__.cpython-35.pyc
+sttomog/__pycache__/evaluate.cpython-35.pyc
